@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dnoursi
 - I’m interested in software, robotics, data, machine learning, AI, and all sorts of tech and business.
-- 🌱 I’m currently learning more of the AI stack, the robotics stack, and the web stack.
+- 🌱 I’m currently learning more of the AI, robotics, systems, and web stacks.
 - I’m looking to collaborate on fresh software projects
 - 📫 How to reach me ...
 
